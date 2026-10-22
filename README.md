@@ -1,6 +1,6 @@
 # Pong
 
-A boot sector implementation of the game Pong written in x86 asm featuring score tracking, a computer controller player and automatic game resets once one player reaches 9 points. The game takes up 485 bytes and is padded up to 512 bytes to fill in a whole sector.
+A boot sector implementation of the game Pong written in x86 asm featuring score tracking, a computer controller player and automatic game resets once one player reaches 9 points. The game takes up 485 bytes and is padded up to 512 bytes to fill a whole sector.
 
 ## Run project
 
